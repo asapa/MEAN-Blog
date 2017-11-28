@@ -1,0 +1,25 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "mean blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asapa/MEAN-Blog.git"
+  },
+  "author": "asapa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asapa/MEAN-Blog/issues"
+  },
+  "homepage": "https://github.com/asapa/MEAN-Blog#readme",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.5"
+  }
+}
